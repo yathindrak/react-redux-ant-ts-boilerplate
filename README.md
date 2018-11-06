@@ -6,6 +6,7 @@
 
 - React
 - Redux
+- Ant Design
 - TypeScript
 - Code Splitting (react-loadable)
 - CSS in JS (styled-components)
